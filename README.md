@@ -38,7 +38,7 @@ Setting up a "2D Profile" in Fusion360
   - Compensation Type:  In computer
 
 User Defined Post Processor Settings (can be changed during each post)
-  - Laser etch power:  10 (etching power)
+  - Laser etch power:  15 (etching power)
   - Laser power: 100 (through cutting power)
   - Laser tool number:  1
 
